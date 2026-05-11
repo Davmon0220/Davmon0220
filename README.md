@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**Davmon0220/Davmon0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
 # Hi, I'm David 👋
 
 Currently pursuing a Bachelor's Degree in Computer Science.
