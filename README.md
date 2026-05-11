@@ -3,27 +3,38 @@
 <!--
 **Davmon0220/Davmon0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi, I'm David 👋
+# Hi, I'm David 👋
 
-I’m currently pursuing a Bachelor’s Degree in Computer Science.
-I have experience coding with HTML, CSS, and JavaScript, and I enjoy building websites and learning new technologies.
-I’m continuously improving my programming skills and working on projects to expand my knowledge in software development and web design.
+Currently pursuing a Bachelor's Degree in Computer Science.
 
-Skills
-HTML5
-CSS3
-JavaScript
-Responsive Web Design
-Basic Front-End Development
-Currently Learning
-Advanced JavaScript
-Computer Science fundamentals
-Software Development concepts
-Git & GitHub collaboration
-Goals
-Build real-world projects
-Grow as a software developer
-Learn additional programming languages and frameworks
-Contribute to open-source projects
-Connect With Me
-GitHub: @davmon2020
+I have experience coding with:
+- HTML5
+- CSS3
+- JavaScript
+
+I enjoy building websites, learning new technologies, and improving my software development skills through projects and hands-on experience.
+
+## Skills
+- Front-End Development
+- Responsive Web Design
+- Basic UI Design
+- Git & GitHub
+
+## Currently Learning
+- Advanced JavaScript
+- Computer Science Fundamentals
+- Software Development Concepts
+
+## Goals
+- Build real-world projects
+- Expand my programming knowledge
+- Learn new frameworks and technologies
+- Grow as a software developer
+
+## Connect With Me
+GitHub: [@davmon2020](https://github.com/davmon2020)
+Email: davmon2020@gmail.com
+
+---
+Thanks for visiting my profile!
+
