@@ -31,7 +31,7 @@ I enjoy building websites, learning new technologies, and improving my software 
 
 ## Connect With Me
 GitHub: [@davmon2020](https://github.com/davmon2020)
-Email: davmon2020@gmail.com
+Email: davmon813@gmail.com
 
 ---
 Thanks for visiting my profile!
