@@ -3,8 +3,8 @@
 Currently pursuing a Bachelor's Degree in Computer Science.
 
 I have experience coding with:
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 I enjoy building websites, learning new technologies, and improving my software development skills through projects and hands-on experience.
