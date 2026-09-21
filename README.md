@@ -30,7 +30,7 @@ I enjoy building websites, learning new technologies, and improving my software 
 - Grow as a software developer
 
 ## Connect With Me
-GitHub: [@davmon2020](https://github.com/davmon2020)
+GitHub: [@davmon0220](https://github.com/davmon0220)
 Email: davmon813@gmail.com
 
 ---
